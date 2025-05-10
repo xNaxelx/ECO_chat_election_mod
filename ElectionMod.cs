@@ -1,3 +1,5 @@
+//Instruction how use mod on https://github.com/xNaxelx/ECO_chat_election_mod
+
 namespace Eco.Mods
 {
     using Eco.Core.Systems;
